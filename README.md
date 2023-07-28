@@ -1,10 +1,21 @@
+<img src="assets/stocks.jpg" alt="Stocks Image">
+
+<br>
+
 By Kenny Tran (kat009@ucsd.edu)
 
 July, 2023
 
 <br>
 
-<img src="assets/stocks.jpg" alt="Stocks Image">
+## Table of Contents
+**[Introduction](#introduction)**
+
+**[Data Collection](#data-collection)**
+
+**[Data Cleaning](#data-cleaning)**
+
+**[Hypothesis Test and Analysis](#hypothesis-test-and-analysis)**
 
 <br>
 
@@ -1426,7 +1437,7 @@ healthcare.head(5)
 
 <br>
 
-## Hypothesis Test & Analysis
+## Hypothesis Test and Analysis
 
 <br>
 

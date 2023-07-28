@@ -8,7 +8,14 @@ July, 2023
 
 <br>
 
+---
+
+<br>
+
 ## Table of Contents
+
+<br>
+
 **[Introduction](#introduction)**
 
 **[Data Collection](#data-collection)**

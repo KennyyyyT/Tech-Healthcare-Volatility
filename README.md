@@ -1,14 +1,4 @@
-# Are Tech Stocks More Volatile than Healthcare Stocks?
-
-<br>
-
 <img src="assets/stocks.jpg" alt="Stocks Image">
-
-<br>
-
-Personal Project about the Volatility of Tech and Healthcare Stocks by Kenny Tran (kat009@ucsd.edu)
-
-July, 2023
 
 <br>
 

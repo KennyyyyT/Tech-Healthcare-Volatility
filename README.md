@@ -1,3 +1,9 @@
+By Kenny Tran (kat009@ucsd.edu)
+
+July, 2023
+
+<br>
+
 <img src="assets/stocks.jpg" alt="Stocks Image">
 
 <br>

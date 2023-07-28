@@ -2,9 +2,10 @@
 
 <br>
 
-<iframe src="assets/stocks.jpg" width=800 height=600 frameBorder=0></iframe>
+<img src="assets/stocks.jpg" alt="Stocks Image">
 
 <br>
+
 Personal Project about the Volatility of Tech and Healthcare Stocks by Kenny Tran (kat009@ucsd.edu)
 
 July, 2023
@@ -23,7 +24,7 @@ One key factor that investors take into consideration for their investments is v
 
 <br>
 
-<iframe src="assets/volatility.jpg" width=800 height=600 frameBorder=0></iframe>
+<img src="assets/volatility.jpg" alt="Volatility Image">
 
 <br>
 
@@ -1494,7 +1495,7 @@ plt.title('7-day Historical Volatility in the Past Year')
 plt.show()
 ```
 
-<iframe src="assets/stocks_vol.png" width=800 height=600 frameBorder=0></iframe>
+<img src="assets/stocks_vol.png" alt="All Stocks Volatility Graph">
 
 <br>
 <br>
@@ -1513,7 +1514,7 @@ plt.show()
 
 <br>
 
-<iframe src="assets/tech_vol.png" width=800 height=600 frameBorder=0></iframe>
+<img src="assets/tech_vol.png" alt="Tech Stocks Volatility Graph">
 
 <br>
 
@@ -1527,7 +1528,7 @@ plt.show()
 
 <br>
 
-<iframe src="assets/healthcare_vol.png" width=800 height=600 frameBorder=0></iframe>
+<img src="assets/healthcare_vol.png" alt="Healthcare Stocks Volatility Graph">
 
 <br>
 

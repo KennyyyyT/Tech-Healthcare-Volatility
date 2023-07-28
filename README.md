@@ -14,15 +14,13 @@ July, 2023
 
 ## Table of Contents
 
-<br>
+* [Introduction](#introduction)
 
-**[Introduction](#introduction)**
+* [Data Collection](#data-collection)
 
-**[Data Collection](#data-collection)**
+* [Data Cleaning](#data-cleaning)
 
-**[Data Cleaning](#data-cleaning)**
-
-**[Hypothesis Test and Analysis](#hypothesis-test-and-analysis)**
+* [Hypothesis Test and Analysis](#hypothesis-test-and-analysis)
 
 <br>
 
@@ -31,8 +29,6 @@ July, 2023
 <br>
 
 ## Introduction
-
-<br>
 
 One key factor that investors take into consideration for their investments is volatility. **Volatility is the degree of variation in the price of a financial asset over time**. It is often used as a risk measurement for an investment's return. A high volatility is a sign that the price of an investment fluctuates significantly over time while a low volatility offers a  more stable price. Having one over the other doesn't definitively grant someone an advantage though, as it is primarily based on the investor's personal strategy.
 
@@ -52,8 +48,6 @@ One key factor that investors take into consideration for their investments is v
 
 ## Data Collection
 
-<br>
-
 Before collecting the data, we must import some packages. These will not only help us for this stage but also for later on.
 
 <br>
@@ -71,14 +65,14 @@ from matplotlib import pyplot as plt
 
 Using the following dataset of **252 rows** and **60 columns**, we can find out **whether or not the top tech stocks are more volatile than the top healthcare stocks**. This dataset contains daily stock information in the past year from **5 popular tech stocks** and **5 popular healthcare stocks**. Each of the stocks are listed below:
 
-#### Tech
+### Tech
 - Apple (AAPL)
 - Microsoft (MSFT)
 - Google (GOOG)
 - NVIDIA (NVDA)
 - Meta (META)
 
-#### Healthcare
+### Healthcare
 - UnitedHealth (UNH)
 - Johnson & Johnson (JNJ)
 - Eli Lilly (LLY)
@@ -588,7 +582,6 @@ stocks.head(5)
 <br>
 
 ## Data Cleaning
-<br>
 
 Since we are calculating the **volatility** of each stock, we will only need to keep the **Date** and **Close** columns for the closing prices for each day. Let's filter to only keep those ones (Note that because we're filtering by a column from a groupby DataFrame, the new columns will simply be the name of the stocks indexed by the dates).
 
@@ -1445,8 +1438,6 @@ healthcare.head(5)
 <br>
 
 ## Hypothesis Test and Analysis
-
-<br>
 
 - **Null Hypothesis:** In the population, there is no significant difference between the mean 7-day volatility of top tech stocks and healthcare stocks.
 
